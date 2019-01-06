@@ -21,5 +21,13 @@
     "server-destroy": "^1.0.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elaya38/secondAmendmentApi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elaya38/secondAmendmentApi/issues"
+  },
+  "homepage": "https://github.com/elaya38/secondAmendmentApi#readme",
   "description": ""
 }
