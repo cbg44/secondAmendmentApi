@@ -3,7 +3,8 @@ const Schema = mongoose.Schema;
 
 const tweetSchema = new Schema({
     text: String,
-    location: String
+    location: String,
+    sentiment: String
 });
 
 
